@@ -43,5 +43,5 @@ console.log('Regex');
 console.log(typeof(emailRegex));
 console.log('Exemplo NULL: ');
 console.log(typeof(idade));
-console.log('Exemplo UNDEFINED: ');
+console.log('Exemplo UNDEFINED:');
 console.log(typeof(tamanho));

@@ -40,4 +40,4 @@ trabalhaDigitado = entrada("você trabalha?:");
 // Mostrando valor e tipo das variáveis
 console.log("nome:" + nomeDigitado + " - tipo " + typeof nomeDigitado);
 console.log("nome:" + idadeDigitado + " - tipo " + typeof idadeDigitado);
-console.log("nome:" + trabalhaDigitado + " - tipo " + typeof trabalhaDigitado);
+ 
