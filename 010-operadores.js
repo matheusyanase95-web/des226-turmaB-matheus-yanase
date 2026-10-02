@@ -4,8 +4,8 @@ let entrada = require('prompt-sync')();
 let strNnum1 = entrada('Insira o 1º valor: ');
 let strNnum2 = entrada('Insira o 2º valor: ');
 
-let num1 = parseInt(strNnum1);
-let num2 = parseInt(strNnum2);
+let strNnum1 = entrada('Insira o 1º valor: ');
+let strNnum2 = entrada('Insira o 2º valor: ');
 
 let soma = num1 + num2;
 let subtracao = num1 - num2;
