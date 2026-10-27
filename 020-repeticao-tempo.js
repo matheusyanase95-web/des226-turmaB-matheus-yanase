@@ -4,7 +4,7 @@ console.log('iniciando contagem na mesma linha...\n');
 
 const intervalo = setInterval(() => {
     // Limpa a linha atual do terminal e move o cursor para o início da linha
-    process.stdout..clearLine(0);
+    process.stdout.clearLine(0);
     process.stdout.cursorTo(0);
 
     // Escreve o número atual na mesma linha
